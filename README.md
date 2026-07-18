@@ -1,71 +1,96 @@
-# Hi 👋, I'm Sahil Kumar Gupta
+<h1 align="center">Hi there, I'm Sahil Kumar Gupta 👋</h1>
+<h3 align="center">Web Developer | BCA Student | Tech Enthusiast from Nepal 🇳🇵</h3>
 
-### Web Developer | BCA Student | Tech Enthusiast from Nepal 🇳🇵
-
-<p align="left">
-  <a href="https://github.com/imsahilgupta">
-    <img src="https://img.shields.io/github/followers/imsahilgupta?label=Followers&style=social" alt="GitHub Followers">
+<p align="center">
+  <a href="https://www.linkedin.com/in/iamsahil2000/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <a href="https://www.instagram.com/iamsahil.np/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.youtube.com/@iamsahilgupta-np">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com/iamsahilgupta/">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="https://www.tiktok.com/@iamsahil.np">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/imsahilgupta?label=Followers&style=social" alt="GitHub Followers">
+  <img src="https://komarev.com/ghpvc/?username=imsahilgupta&label=Profile%20Views&color=6366f1&style=flat" alt="Profile Views">
 </p>
 
 ---
 
-## 🚀 About Me
+### 🚀 About Me
 
-I'm a passionate Web Developer and BCA student from Kathmandu, Nepal.  
-I enjoy building modern web applications, learning new technologies, and creating innovative digital solutions.
-
-Currently, I’m working in accounting and IT-related roles while continuously improving my development skills.
-
----
-
-## 💻 Skills & Technologies
-
-- HTML
-- CSS
-- Next.js
-- C Programming
-- MS Office
-- Tally ERP9
+- 🎓 BCA student building a foundation in computer applications and software development
+- 💼 Currently balancing **accounting & IT roles** while sharpening my dev skills
+- 🌱 Learning modern web development, one project at a time
+- 📍 Based in Kathmandu, Nepal
+- ⚡ Fun fact: I go from writing code to riding bikes to shooting vlogs — all in the same week
 
 ---
 
-## 📌 Projects
+### 💻 Skills & Technologies
 
-- 🌐 Portfolio Website
-- 🛒 E-Commerce Website
-- 📦 Courier Management System
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,nextjs,react,tailwind,c,git,github,vscode" />
+</p>
 
----
-
-## 🎯 Interests & Hobbies
-
-- 🎵 Listening to Music
-- 🏍 Riding
-- 📸 Photography
-- ✈️ Travelling
-- 🎥 Vlogging
+**Tools I also work with:** MS Office · Tally ERP9
 
 ---
 
-## 🌍 Connect With Me
+### 📌 Featured Projects
 
-- Facebook: https://www.facebook.com/iamsahilgupta/
-- LinkedIn: https://www.linkedin.com/in/iamsahil2000/
-- YouTube: https://www.youtube.com/@iamsahilgupta-np
-- Instagram: https://www.instagram.com/iamsahil.np/
-- GitHub: https://github.com/imsahilgupta
-- TikTok: https://www.tiktok.com/@iamsahil.np?lang=en
-
----
-
-## 📫 Contact Me
-
-- 📧 Email: sahilkgupta2000@gmail.com
-- 📍 Kathmandu, Nepal
+| Project | Description |
+|---|---|
+| 🌐 **Portfolio Website** | Personal portfolio showcasing my work and skills |
+| 🛒 **E-Commerce Website** | A full-featured online shopping platform |
+| 📦 **Courier Management System** | A system to manage and track courier operations |
 
 ---
 
-## ⚡ Quote
+### 📊 GitHub Stats
 
-> “Keep learning, keep building, and never stop growing.”
+<p align="left">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=imsahilgupta&show_icons=true&theme=default&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imsahilgupta&layout=compact&hide_border=true" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imsahilgupta&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🎯 Interests & Hobbies
+
+🎵 Listening to Music &nbsp;|&nbsp; 🏍 Riding &nbsp;|&nbsp; 📸 Photography &nbsp;|&nbsp; ✈️ Travelling &nbsp;|&nbsp; 🎥 Vlogging
+
+---
+
+### 📫 Let's Connect
+
+<p align="left">
+  <a href="mailto:sahilkgupta2000@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+📍 Kathmandu, Nepal
+
+---
+
+<p align="center">
+  <em>"Keep learning, keep building, and never stop growing."</em>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=100&section=footer" />
+</p>
